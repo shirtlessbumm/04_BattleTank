@@ -1,2 +1,2 @@
-# 04_BattleTank
+# BattleTank
 Open world head to head tank fighting game.
